@@ -10,3 +10,5 @@ The Defect Detection System is a real-time surveillance application that activat
 
 
 
+
+
